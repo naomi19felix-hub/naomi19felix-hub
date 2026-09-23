@@ -12,11 +12,9 @@ Positionnement, contenu, orchestration commerciale. Une seule interlocutrice, ex
 
 ### En ce moment
 
-🔬 **Je mesure ce que les moteurs de réponse recommandent vraiment.** Sept questions posées du point de vue d'un acheteur, sans jamais nommer de marque. Vague d'août 2026 sur la gestion des appels en cabinet médical : **39 acteurs cités, et seulement 31 % de recouvrement entre ChatGPT et Perplexity.** Être visible sur un moteur ne dit rien de l'autre.
-
-🏥 **Campagne d'acquisition de 9 mois pour le MBA Management et Leadership de la Santé de l'IAE Paris-Sorbonne.** Marché public remporté, en cours de livraison.
-
 📊 **J'écris sur ce que les données publiques françaises permettent réellement de faire** en développement commercial santé : BOAMP, FINESS, bases de l'open data santé. → [mes publications](https://naomifelix.fr/publications/)
+
+🔬 **Je mesure ce que les moteurs de réponse recommandent vraiment.** Sept questions posées du point de vue d'un acheteur, sans jamais nommer de marque. Vague d'août 2026 sur la gestion des appels en cabinet médical : **39 acteurs cités, et seulement 31 % de recouvrement entre ChatGPT et Perplexity.** Être visible sur un moteur ne dit rien de l'autre.
 
 ---
 
