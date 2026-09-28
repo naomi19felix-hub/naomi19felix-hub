@@ -32,11 +32,4 @@ Les mesures que je publie viennent avec leurs données brutes et leurs limites �
 
 ---
 
-### Avant
-
-10 ans côté entreprise : **AWS** (portefeuille marché espagnol), **CNP Assurances**, le luxe et le conseil.
-Dauphine et Sorbonne. Français, anglais, espagnol.
-
----
-
-<sub>Micro-entreprise · Organisme de formation déclaré, formations IA éligibles OPCO · Paris</sub>
+<sub> · Organisme de formation déclaré, formations IA éligibles OPCO · Paris</sub>
